@@ -76,7 +76,12 @@
         "SwordAndShield_AttackBig1": "SideKick",
         "SwordAndShield_AttackCombo1": "SideKick",
         "SwordAndShield_Attack1": "Unarmed-Attack-L1",
-        "SwordAndShield_Attack2": "Unarmed-Attack-L3"
+        "SwordAndShield_Attack2": "Unarmed-Attack-L3",
+        "2xAttack_Place_fast_Ldwon_Rdown_1": "Unarmed-Attack-R2",
+        "2xAttack_Place_med_Rdown_Rdown_1": "Unarmed-Attack-R3",
+        "2xAttack_Move_med_Rdown_L_1": "Unarmed-Attack-R2",
+        "2xAttack_Move_med_Rlow_Lhi_1": "Unarmed-Attack-R3",
+        "2xAttack_Move_med_whirl_Rhi_Rhi_1": "Unarmed-Attack-R2"
       }
     },
     {
