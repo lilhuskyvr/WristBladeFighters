@@ -1,0 +1,16 @@
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\Brains\Brain_WristBladeFighter.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\Containers\Container_WristBladeFighter.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\Items\Item_AnimationContainer_WristBladeFighters.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\Items\Item_Wardrobe_ApparelWristBladeFighters.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\manifest.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\WristBladeFighters.dll
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\WristBladeFighters.pdb
+C:\Users\nikon\RiderProjects\WristBladeFighters\WristBladeFighters\obj\Release\WristBladeFighters.csprojResolveAssemblyReference.cache
+C:\Users\nikon\RiderProjects\WristBladeFighters\WristBladeFighters\obj\Release\WristBladeFighters.dll
+C:\Users\nikon\RiderProjects\WristBladeFighters\WristBladeFighters\obj\Release\WristBladeFighters.pdb
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\Waves\Wave_WristBladeFighters1.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\Waves\Wave_WristBladeFighters2.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\Waves\Wave_WristBladeFighters3.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\Waves\Wave_WristBladeFighters4.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\Waves\Wave_WristBladeFighters5.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\WristBladeFighters\LootTables\LootTable_WristBladeSecondary.json

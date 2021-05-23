@@ -1,0 +1,55 @@
+{
+  "$type": "ThunderRoad.ContainerData, Assembly-CSharp",
+  "id": "WristBladeFighter",
+  "saveFolder": "Bas",
+  "version": 1,
+  "displayName": "",
+  "description": null,
+  "contents": [
+    {
+      "referenceID": "ApparelBanditPants",
+      "reference": "Item",
+      "customValues": []
+    },
+    {
+      "referenceID": "ApparelBanditBoots",
+      "reference": "Item",
+      "customValues": []
+    },
+    {
+      "referenceID": "WristBlade",
+      "reference": "Item",
+      "customValues": [
+        {
+          "id": "Holder",
+          "value": "HipsRight"
+        }
+      ]
+    },
+    {
+      "referenceID": "WristBladeSecondary",
+      "reference": "Table",
+      "customValues": [
+        {
+          "id": "Holder",
+          "value": "HipsLeft"
+        }
+      ]
+    },
+    {
+      "referenceID": "Hairs",
+      "reference": "Table",
+      "customValues": []
+    },
+    {
+      "referenceID": "Beards",
+      "reference": "Table",
+      "customValues": []
+    },
+    {
+      "referenceID": "ApparelWristBladeFighters",
+      "reference": "Item",
+      "customValues": []
+    }
+  ]
+}

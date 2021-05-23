@@ -1,0 +1,10 @@
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\MMAFighters\MMAFighters.dll
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\MMAFighters\MMAFighters.pdb
+C:\Users\nikon\RiderProjects\MMAFighters\MMAFighters\obj\Release\MMAFighters.csprojResolveAssemblyReference.cache
+C:\Users\nikon\RiderProjects\MMAFighters\MMAFighters\obj\Release\MMAFighters.dll
+C:\Users\nikon\RiderProjects\MMAFighters\MMAFighters\obj\Release\MMAFighters.pdb
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\MMAFighters\Items\Item_AnimationContainer_MMAFighters.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\MMAFighters\Items\Item_Wardrobe_ApparelMMAFighters.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\MMAFighters\manifest.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\MMAFighters\Containers\Container_MMAFighter.json
+D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\MMAFighters\Brains\Brain_MMAFighter.json

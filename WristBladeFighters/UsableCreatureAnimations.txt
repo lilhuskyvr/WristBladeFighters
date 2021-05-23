@@ -1,0 +1,225 @@
+
+Hit Big Back
+
+
+Hit Big Left
+
+
+Hit Big Right
+
+
+Hit Small Back
+
+
+Hit Small Front
+
+
+Hit Small Right
+
+
+Hit Small Left
+
+Hit Big Back
+
+
+Hit Big Left
+
+
+Hit Big Right
+
+
+Hit Small Back
+
+
+Hit Small Front
+
+
+Hit Small Right
+
+
+Hit Small Left
+
+
+Hit Big Front
+
+Hit Big Front
+
+
+Hit Big Back
+
+
+Hit Big Left
+
+
+Hit Big Right
+
+
+Hit Small Back
+
+
+Hit Small Front
+
+
+Hit Small Right
+
+
+Hit Small Left
+
+
+Hit Big Back
+
+
+Hit Big Right
+
+
+Hit Big Left
+
+
+Hit Small Back
+
+
+Hit Small Front
+
+
+Hit Small Left
+
+
+Hit Small Right
+
+Hit Big Back
+
+
+Hit Big Right
+
+
+Hit Big Left
+
+
+Hit Small Back
+
+
+Hit Small Front
+
+
+Hit Small Left
+
+
+Hit Small Right
+
+Hit Big Back
+
+
+Hit Big Right
+
+
+Hit Big Left
+
+
+Hit Small Back
+
+
+Hit Small Front
+
+
+Hit Small Left
+
+
+Hit Small Right
+
+
+Hit Big Front
+
+Hit Big Back
+
+
+Hit Big Left
+
+
+Hit Big Right
+
+
+Hit Small Back
+
+
+Hit Small Front
+
+
+Hit Small Right
+
+
+Hit Small Left
+
+
+Attack_Move_slow_L_1
+
+
+Attack_Move_slow_Lup
+
+
+Attack_Move_slow_Rdown_1
+
+
+Attack_Move_slow_T_1
+
+
+Attack_Move_slow_T_2
+
+
+Attack_Move_slow_whirl_L_1
+
+
+Attack_Place_slow_Ldown_1
+
+
+Attack_Place_slow_Rdown_1
+
+
+Attack_Place_med_R_1
+
+
+Attack_Place_med_R_2
+
+
+Attack_Place_med_Rup_1
+
+
+Attack_Move_fast_T_1
+
+
+Attack_Move_fast_Rlow_1
+
+
+Attack_Move_fast_Rdown_1
+
+
+Attack_Move_med_Rhigh_1
+
+
+Attack_Move_med_Ldown_1
+
+
+Attack_Move_med_Ldown_2
+
+
+Attack_Move_med_Rlow_1
+
+
+Attack_Move_snap_Point
+
+
+Attack_Place_snap_T_1
+
+
+Attack_Place_snap_R_1
+
+
+Attack_Place_snap_Ldown_2
+
+
+Attack_Place_snap_Ldown_1
+
+
+Attack_Place_fast_Lup_1
+
+
+Attack_Place_fast_Llow_1
